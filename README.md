@@ -4,7 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sabarivijayan&color=blueviolet)
 
-
 Welcome to my GitHub! I am passionate about coding, problem-solving, and turning complex ideas into simple solutions. My journey is about continually learning and pushing boundaries, whether it's through developing applications or exploring new technologies.
 
 ---
@@ -15,6 +14,14 @@ Welcome to my GitHub! I am passionate about coding, problem-solving, and turning
 - 🌱 Currently learning **Web Development**, **Blockchain**, and **AI**.
 - 🧠 Interested in **Chaos Theory**, **Stand-Up Comedy**, and **Public Speaking**.
 - 🎮 In my free time, I enjoy playing video games, doing coding challenges, or binge-watching sci-fi series.
+
+---
+
+### 🌐 Connect with Me:
+
+Want to find me on social platforms? Let's stay in touch! Just visit my Linktree below to explore all my profiles in one place:
+
+[![Linktree](https://img.shields.io/badge/My%20Linktree-Click%20Here-green?style=for-the-badge&logo=linktree)](https://linktr.ee/sabarivijayan)
 
 ---
 
@@ -54,14 +61,6 @@ Welcome to my GitHub! I am passionate about coding, problem-solving, and turning
 - 🎤 I often perform **stand-up comedy** for fun—mixing coding with comedy!
 - 🌍 I'm interested in **international relations** and one day may work in the **Indian Foreign Service (IFS)**.
 - 🎨 I am also exploring ways to apply coding into **creative fields** like storytelling and versification.
-
----
-
-### 📫 How to Reach Me:
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sabarivijayan)
-- 🐦 [Twitter](https://twitter.com/sabarivijayan)
-- 📧 Email: sabarivijayan@example.com
 
 ---
 
