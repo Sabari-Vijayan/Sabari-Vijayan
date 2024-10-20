@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Sabari Vijayan!
 
+
+![Cool SVG Animation](https://www.svgator.com/blog/cool-svg-animation-examples-to-inspire/on.svg)
+
+...
+
 ### Aspiring Developer | Tech Enthusiast | Lifelong Learner
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sabarivijayan&color=blueviolet)
