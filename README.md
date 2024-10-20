@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sabari Vijayan!
 
 
-![Cool SVG Animation](https://www.svgator.com/blog/cool-svg-animation-examples-to-inspire/on.svg)
+![Cool SVG Animation](/storage/emulated/0/Download/Animation - 1729443727220.gif)
 
 ...
 
