@@ -2,6 +2,9 @@
 
 ### Aspiring Developer | Tech Enthusiast | Lifelong Learner
 
+![Profile Views](https://komarev.com/ghpvc/?username=sabarivijayan&color=blueviolet)
+
+
 Welcome to my GitHub! I am passionate about coding, problem-solving, and turning complex ideas into simple solutions. My journey is about continually learning and pushing boundaries, whether it's through developing applications or exploring new technologies.
 
 ---
