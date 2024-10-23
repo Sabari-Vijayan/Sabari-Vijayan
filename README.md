@@ -76,7 +76,7 @@ _"You can tell a lot about a person by the way they handle three things: a rainy
 ---
 
 ### 🌟 Show Some Love:
-If you like what I do, please consider leaving a ⭐ on my repos or [buying me a coffee](https://buymeacoffee.com/sabarivijayan) to fuel my late-night coding sessions!
+If you like what I do, please consider leaving a ⭐ on my repos or [buying me a coffee](buymeacoffee.com/sabarivijayan) to fuel my late-night coding sessions!
 
 ---
 
