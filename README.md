@@ -1,6 +1,4 @@
 # <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand"/>
-</p> <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36F7F2&center=true&width=435&lines=Hello+there!+👋;Iam+Sabari+Vijayan;Welcome+to+my+profile!;Check+out+my+projects+below!" alt="Typing SVG" />
 </p>
 
