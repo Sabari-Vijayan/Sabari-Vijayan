@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sabari Vijayan!
 
 
-![Cool SVG Animation]<iframe src="https://giphy.com/embed/ahPGiQsZLMCZVVnMBR" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/euphoric-timenotspace-wrwc-ahPGiQsZLMCZVVnMBR">via GIPHY</a></p>
+![Cool SVG Animation](<iframe src="https://giphy.com/embed/ahPGiQsZLMCZVVnMBR" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/euphoric-timenotspace-wrwc-ahPGiQsZLMCZVVnMBR">via GIPHY</a></p>)
 ...
 
 ### Aspiring Developer | Tech Enthusiast | Lifelong Learner
