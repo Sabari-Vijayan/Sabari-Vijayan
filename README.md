@@ -66,8 +66,8 @@ Want to find me on social platforms? Let's stay in touch! Just visit my Linktree
 
 - 🤓 I love to geek out on **chaos theory** and **diplomacy**.
 - 🎤 I often perform **stand-up comedy** for fun—mixing coding with comedy!
-- 🌍 I'm interested in **international relations** and one day may work in the **Indian Foreign Service (IFS)**.
-- 🎨 I am also exploring ways to apply coding into **creative fields** like storytelling and versification.
+- 🌍 I'm interested in **international relations**.
+- 🎨 I am also exploring ways to apply coding into **creative fields** like storytelling.
 
 ---
 
@@ -85,9 +85,9 @@ If you like what I do, please consider leaving a ⭐ on my repos or [buying me a
 ### 🎉 Featured Repositories
 
 <!-- Add links to your top repositories with a description -->
-- [🔥 Project 1](https://github.com/sabarivijayan/project1) - A blazing fast algorithm for sorting huge datasets.
-- [💻 Project 2](https://github.com/sabarivijayan/project2) - A web-based platform for real-time collaboration on coding tasks.
-- [📱 Project 3](https://github.com/sabarivijayan/project3) - A mobile app that revolutionizes note-taking with integrated machine learning.
+- [🔥 Project 1](https://github.com/sabarivijayan/project1) - "Hustle" secret app.
+- [💻 Project 2](https://github.com/sabarivijayan/project2) - My web portfolio.
+- [📱 Project 3](https://github.com/sabarivijayan/project3) - A mobile mp3 player cus nothing out there suits my needs.
 
 Thanks for stopping by, and happy coding! 😄
 
