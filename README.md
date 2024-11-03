@@ -2,6 +2,8 @@
 
 
 ![Cool Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRibHltc3V4cWN3M3NjaGk2enp1OGlieTYwbXhleTZyc2EwdXR0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.webp)
+
+
 ...
 
 ### Aspiring Developer | Tech Enthusiast | Lifelong Learner
