@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sabari Vijayan!
 
 
-![Cool SVG Animation](https://private-cdn.lottie.host/273a7ff4-ba70-419f-8766-a736fbb11616/variation/xURFRC6RvZ.gif?versionId=2a1jth.XW6JUXezrsjg5w_vntMemzM1L&response-content-disposition=attachment&Expires=1729461855&Key-Pair-Id=KIYCB0SQ8V5G8&Signature=BsrtiI~QzkvrczYJRFrCxd86q3AgWNmBGWOkVAHDLbUIxUkN2jEA~U52yHTo1dzhCc3XvUSfKDuxFDjNdeURcjjTIuVhD5fkIslw2kYbSZRlujv38RngFLIPIAs617395ODsc-nwTT6gm5GfmM8F~vyNBplQ82AnR7seBgGoiisuBIupficnd8k-Lj7BA9RAgl3JdWUt~w3oTjLOFsOnhEKO6BxLrx8~EzzNk4twofbhx~3E9TbT61QsCLlroEz-dLoswRokxcJQCqta1SwVsLKA6wK~QB94bNLGUU00EQ6gwT9SIgH8Y96ULg71AIC0OnC3QxSsqTH-sI2x07gVlg__)
-
+![Cool SVG Animation]<iframe src="https://giphy.com/embed/ahPGiQsZLMCZVVnMBR" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/euphoric-timenotspace-wrwc-ahPGiQsZLMCZVVnMBR">via GIPHY</a></p>
 ...
 
 ### Aspiring Developer | Tech Enthusiast | Lifelong Learner
