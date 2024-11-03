@@ -89,3 +89,23 @@ If you like what I do, please consider leaving a ⭐ on my repos or [buying me a
 - [📱 Project 3](https://github.com/sabarivijayan/project3) - A mobile app that revolutionizes note-taking with integrated machine learning.
 
 Thanks for stopping by, and happy coding! 😄
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36F7F2&center=true&width=435&lines=Hello+there!+👋;Welcome+to+my+profile!;Check+out+my+projects+below!" alt="Typing SVG" />
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZdZt63Fl5Ic0/giphy.gif" width="80" height="80">
+</p>
+
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif" width="50" height="50" alt="Loading">
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand"/>
+</p>
+
