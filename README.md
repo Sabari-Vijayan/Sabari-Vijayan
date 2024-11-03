@@ -96,3 +96,4 @@ Thanks for stopping by, and happy coding! 😄
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand"/>
 </p>
 
+[![Sabari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabari-Vijayan)](https://github.com/anuraghazra/github-readme-stats)
