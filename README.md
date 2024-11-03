@@ -91,6 +91,9 @@ If you like what I do, please consider leaving a ⭐ on my repos or [buying me a
 
 Thanks for stopping by, and happy coding! 😄
 
+<p style="color:#36f7f2">This is blue text in my README.md!</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36F7F2&center=true&width=435&lines=Hello+there!+👋;Welcome+to+my+profile!;Check+out+my+projects+below!" alt="Typing SVG" />
 </p>
