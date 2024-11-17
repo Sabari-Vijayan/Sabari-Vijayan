@@ -44,7 +44,8 @@ Want to find me on social platforms? Let's stay in touch! Just visit my Linktree
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Julian](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 ---
 
