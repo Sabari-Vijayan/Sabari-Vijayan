@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36F7F2&center=true&width=435&lines=Hello+there!+👋;Iam+Sabari+Vijayan;Welcome+to+my+profile!;Check+out+my+projects+below!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36F7F2&center=true&width=435&lines=Birds+of+a+feather+flock+together;I+am+Sabari+Vijayan;Welcome+to+my+profile!;Check+out+my+projects+below!" alt="Typing SVG" />
 </p>
 
 ![Cool Animation](https://media2.giphy.com/media/Basrh159dGwKY/giphy.gif?cid=6c09b9527g26u6c9apy6ferwnw2z7gpopwvi81mz5sfof0h5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
@@ -9,32 +9,32 @@
 
 [![💻 Built at TinkerSpace](https://img.shields.io/badge/Built%20at-TinkerSpace-blueviolet?style=for-the-badge&label=%F0%9F%92%BBBuilt%20at&labelColor=turquoise&color=white)](https://tinkerhub.org/tinkerspace)
 
-### Aspiring Developer | Tech Enthusiast | Lifelong Learner
+### Developer | Firm believer of FOSS | Lifelong Learner
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sabarivijayan&color=blueviolet)
 
-Welcome to my GitHub! I am passionate about coding, problem-solving, and turning complex ideas into simple solutions. My journey is about continually learning and pushing boundaries, whether it's through developing applications or exploring new technologies.
+My github profile is like panning for gold in a river; you have to wash away a lot of dirt and mud to find the few flakes of gold. So please don't be inimidated by the number of repos there are.
 
 ---
 
-### 🚀 About Me:
-- 🖥️ I’m currently working on mastering **Data Structures & Algorithms**.
-- 🎓 BTech Student with a knack for **competitive programming**.
-- 🌱 Currently learning **Web Development**, **Blockchain**, and **AI**.
-- 🧠 Interested in **Chaos Theory**, **Stand-Up Comedy**, and **Public Speaking**.
-- 🎮 In my free time, I enjoy playing video games, doing coding challenges, or binge-watching sci-fi series.
+### About Me:
+- I still have'nt found my place, trying out **devops** for now. 
+- I love Linux, Linux is not a kernel it is a way of life.
+- I also hate **javascript** and **mongodb**.
+- You can always ping me if you want any help from me, I don't mind.
+- In my free time... Free time? havent really had that in a long time; always busy with my hands, the hands are never empty.
 
 ---
 
-### 🌐 Connect with Me:
+###Connect with Me:
 
-Want to find me on social platforms? Let's stay in touch! Just visit my Linktree below to explore all my profiles in one place:
+Want to find me on social platforms? Just visit my Linktree below to explore all my profiles in one place:
 
 [![Linktree](https://img.shields.io/badge/My%20Linktree-Click%20Here-green?style=for-the-badge&logo=linktree)](https://linktr.ee/sabarivijayan)
 
 ---
 
-### 🛠️ Languages & Tools:
+### Languages & Tools:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -62,15 +62,6 @@ Want to find me on social platforms? Let's stay in touch! Just visit my Linktree
 ### 📈 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabarivijayan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 💡 Fun Facts:
-
-- 🤓 I love to geek out on **chaos theory** and **diplomacy**.
-- 🎤 I often perform **stand-up comedy** for fun—mixing coding with comedy!
-- 🌍 I'm interested in **international relations**.
-- 🎨 I am also exploring ways to apply coding into **creative fields** like storytelling.
 
 ---
 
